@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [My Solution](https://www.frontendmentor.io/solutions/stats-preview-card-challenge-using-css-Faa829Zm8)
 - Live Site URL: [Live Site](https://aranuie.github.io/stats-preview-card-component-main/)
 
 ## My process
