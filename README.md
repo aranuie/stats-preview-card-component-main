@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![alt text](images/screenshot.png "Screenshot of my project.")
+![alt text](images/ "Screenshot of my project.")
 
 ### Links
 
